@@ -1,3 +1,3 @@
 Full Name-Oyebanji Oyinkansola
-Display Name-Oyin
+Display Name-kansola
 Track-Frontend
